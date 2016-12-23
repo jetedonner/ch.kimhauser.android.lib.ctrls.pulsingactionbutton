@@ -1,0 +1,2 @@
+include ':app', ':PulsingActionButton'
+project(':PulsingActionButton').projectDir = new File('../PulsingActionButton')
